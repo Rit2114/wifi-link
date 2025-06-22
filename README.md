@@ -54,7 +54,8 @@ Join our community of developers creating universal apps.
 
 .
 
-🌐 WiFi Access Made Effortless
+**🌐 WiFi Access Made Effortless**
+
 🔹 One-Tap Connection
 No more awkwardly asking for passwords or manually setting up a hotspot. Users connect to public or private WiFi in seconds—effortless and seamless.
 
