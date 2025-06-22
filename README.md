@@ -48,3 +48,18 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+🌐 WiFi Access Made Effortless
+🔹 One-Tap Connection
+No more awkwardly asking for passwords or manually setting up a hotspot. Users connect to public or private WiFi in seconds—effortless and seamless.
+
+📍 Smart WiFi Navigation
+The app uses GPS to identify your current location and guides you to the nearest available WiFi point—ideal when you're out of data or facing network issues.
+
+🔐 Verified WiFi Providers
+Every shop, café, or individual offering WiFi must register and authenticate via the app. This adds a layer of security and accountability.
+
+🛡️ Traceable and Secure
+To prevent misuse, all connections are logged. If needed, usage can be traced back to the verified provider, ensuring trust and safety for everyone.
