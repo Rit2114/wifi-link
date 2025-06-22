@@ -56,8 +56,8 @@ Join our community of developers creating universal apps.
 
 **🌐 WiFi Access Made Effortless**
 
-**🔹 One-Tap Connection**
-No more awkwardly asking for passwords or manually setting up a hotspot. Users connect to public or private WiFi in seconds—effortless and seamless.
+**🔹 One-Tap Connection
+**No more awkwardly asking for passwords or manually setting up a hotspot. Users connect to public or private WiFi in seconds—effortless and seamless.
 
 **📍 Smart WiFi Navigation** 
 The app uses GPS to identify your current location and guides you to the nearest available WiFi point—ideal when you're out of data or facing network issues.
